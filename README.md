@@ -15,3 +15,6 @@ Name : Mr.Natapong Nitarach :: นายณัฐพงษ์ นิตราช
 
 ## Getting Started with AWS Machine Learning of Amazon Web Services
 <p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/Coursera%20RKK2Q7NZMLZL-1.png"></p>
+
+## Introduction to Data Studio of Google Analytics Academy 
+<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/Introduction_to_Data_Studio_Certificate.png"></p>
