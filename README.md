@@ -18,3 +18,6 @@ Name : Mr.Natapong Nitarach :: นายณัฐพงษ์ นิตราช
 
 ## Introduction to Data Studio of Google Analytics Academy 
 <p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/Introduction_to_Data_Studio_Certificate.png"></p>
+
+## Advanced Google Analytics of Google Analytics Academy 
+<p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/Advanced_Google_Analytics.png"></p>
