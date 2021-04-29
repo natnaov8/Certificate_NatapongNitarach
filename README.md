@@ -1,5 +1,5 @@
 # Certificate Public 
-Name : Mr.Natapong Nitarach :: นายณัฐพงษ์ นิตราช
+Name : N. Natapong 
 
 ## The Internet of Things with SAP of openSAP
 <p align="center"><img src="https://raw.githubusercontent.com/natnaov8/Certificate_NatapongNitarach/master/Certificate/png/iot4_ConfirmationOfParticipation-1.png"></p>
